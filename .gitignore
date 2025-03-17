@@ -1,0 +1,14 @@
+cat <<EOT > .gitignore
+logs/
+output/
+*.log
+*.zip
+*.tar.gz
+*.csv
+*.exe
+*.dmg
+*.mp4
+*.mov
+*.iso
+*.DS_Store
+EOT
